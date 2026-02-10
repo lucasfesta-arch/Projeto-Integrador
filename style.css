@@ -1,10 +1,10 @@
 body{
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
     text-align: center;
 }
 h1{
-    color: blue;
+    color: rgb(3, 148, 148);
 }
 h2{
-    color: blue;
+    color: rgb(70, 172, 255);
 }
